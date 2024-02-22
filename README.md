@@ -7,7 +7,8 @@
 </p>
 <p align="center">
 GeckoLib is a powerful animation library for Minecraft Java Edition available for all major modloaders. Includes out-of-the-box support for easings, math-based animations, resource pack overloading, and animation stacking.
-ABOUT THIS FORK: The main change is you can add your own queries variables
+<br>
+ABOUT THIS FORK: I added my own variables
 </p>
 <hr>
 <br>
