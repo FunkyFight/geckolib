@@ -86,6 +86,10 @@ public class MolangParser extends MathBuilder {
 		register(new LazyVariable(MolangQueries.TIME_OF_DAY, 0));
 		register(new LazyVariable(MolangQueries.IS_ON_FIRE, 0));
 		register(new LazyVariable(MolangQueries.GROUND_SPEED, 0));
+
+		// Injected by FunkyFight for Blockbuster 1.20.4
+		register(new LazyVariable(MolangQueries.HEAD_YAW, 0));
+		register(new LazyVariable(MolangQueries.HEAD_PITCH, 0));
 	}
 
 	/**
